@@ -1,0 +1,16 @@
+
+h1 { color: red; }
+p { color: blue; }
+li{coior:green;}
+
+
+.sheep {color: yellow;}
+
+#birth {color: green;}
+
+.back {background: orange;}
+
+.gradient {
+background: linear-gradient(to right , #38a092 , #fdbf3b);
+color: white;
+}
